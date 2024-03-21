@@ -1,2 +1,2 @@
 user= input("enter the input")
-print(user.lower())
+print(user.lower().strip())
